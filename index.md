@@ -6,4 +6,4 @@ this is so fun! :joy:
 
 Pitää korostaa nämä ==tärkeät sanat==.
 
-![jee](thumbs up.jpg)
+![jee](thumbs_up.jpg)
